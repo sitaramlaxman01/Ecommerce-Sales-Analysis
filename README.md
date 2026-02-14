@@ -1,6 +1,7 @@
 # Ecommerce-Sales-Analysis
 This project analyzes e-commerce sales data using Power BI to understand business performance and customer behavior.
-The dashboard includes:
+
+# The dashboard includes:
 
 Total Sales, Profit, and Quantity Sold
 
